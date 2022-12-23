@@ -4,3 +4,7 @@ type = number
 default = 8080
 }
 
+varibale "security_group_name"{
+	type = string
+	default = "std10-terraform-example-instance"
+}
